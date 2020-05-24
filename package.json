@@ -1,0 +1,22 @@
+{
+  "name": "long-running-process",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonahAcquah/long-running-process.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonahAcquah/long-running-process/issues"
+  },
+  "homepage": "https://github.com/JonahAcquah/long-running-process#readme",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  }
+}
